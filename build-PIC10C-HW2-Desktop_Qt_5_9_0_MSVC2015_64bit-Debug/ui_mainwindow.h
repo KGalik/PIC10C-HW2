@@ -214,6 +214,7 @@ public:
         checkBox = new QCheckBox(centralWidget);
         checkBox->setObjectName(QStringLiteral("checkBox"));
         checkBox->setGeometry(QRect(10, 340, 81, 17));
+        checkBox->setChecked(true);
         checkBox_2 = new QCheckBox(centralWidget);
         checkBox_2->setObjectName(QStringLiteral("checkBox_2"));
         checkBox_2->setGeometry(QRect(100, 340, 71, 20));
@@ -289,6 +290,17 @@ public:
         QObject::connect(horizontalSlider_10, SIGNAL(valueChanged(int)), spinBox_10, SLOT(setValue(int)));
         QObject::connect(horizontalSlider_11, SIGNAL(valueChanged(int)), spinBox_11, SLOT(setValue(int)));
         QObject::connect(spinBox, SIGNAL(valueChanged(int)), horizontalSlider, SLOT(setValue(int)));
+        QObject::connect(spinBox_2, SIGNAL(valueChanged(int)), horizontalSlider_2, SLOT(setValue(int)));
+        QObject::connect(spinBox_3, SIGNAL(valueChanged(int)), horizontalSlider_3, SLOT(setValue(int)));
+        QObject::connect(spinBox_4, SIGNAL(valueChanged(int)), horizontalSlider_4, SLOT(setValue(int)));
+        QObject::connect(spinBox_5, SIGNAL(valueChanged(int)), horizontalSlider_5, SLOT(setValue(int)));
+        QObject::connect(spinBox_6, SIGNAL(valueChanged(int)), horizontalSlider_6, SLOT(setValue(int)));
+        QObject::connect(spinBox_7, SIGNAL(valueChanged(int)), horizontalSlider_7, SLOT(setValue(int)));
+        QObject::connect(spinBox_8, SIGNAL(valueChanged(int)), horizontalSlider_8, SLOT(setValue(int)));
+        QObject::connect(spinBox_9, SIGNAL(valueChanged(int)), horizontalSlider_9, SLOT(setValue(int)));
+        QObject::connect(spinBox_10, SIGNAL(valueChanged(int)), horizontalSlider_10, SLOT(setValue(int)));
+        QObject::connect(spinBox_11, SIGNAL(valueChanged(int)), horizontalSlider_11, SLOT(setValue(int)));
+        QObject::connect(checkBox, SIGNAL(toggled(bool)), horizontalSlider_8, SLOT(setVisible(bool)));
 
         QMetaObject::connectSlotsByName(MainWindow);
     } // setupUi
