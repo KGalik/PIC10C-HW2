@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>180</width>
-    <height>439</height>
+    <width>191</width>
+    <height>436</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,7 +19,7 @@
      <rect>
       <x>50</x>
       <y>10</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -41,7 +41,7 @@
      <rect>
       <x>50</x>
       <y>40</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -63,7 +63,7 @@
      <rect>
       <x>50</x>
       <y>70</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -85,7 +85,7 @@
      <rect>
       <x>50</x>
       <y>100</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -107,7 +107,7 @@
      <rect>
       <x>50</x>
       <y>130</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -129,7 +129,7 @@
      <rect>
       <x>50</x>
       <y>160</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -151,7 +151,7 @@
      <rect>
       <x>50</x>
       <y>190</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -173,7 +173,7 @@
      <rect>
       <x>50</x>
       <y>220</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -195,7 +195,7 @@
      <rect>
       <x>50</x>
       <y>250</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -217,7 +217,7 @@
      <rect>
       <x>50</x>
       <y>280</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -239,7 +239,7 @@
      <rect>
       <x>50</x>
       <y>310</y>
-      <width>71</width>
+      <width>81</width>
       <height>22</height>
      </rect>
     </property>
@@ -254,182 +254,6 @@
     </property>
     <property name="orientation">
      <enum>Qt::Horizontal</enum>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>10</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_2">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>40</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_3">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>70</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_4">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>100</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_5">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>130</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_6">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>160</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_7">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>190</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_8">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>220</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_9">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>250</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_10">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>280</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
-    </property>
-   </widget>
-   <widget class="QSpinBox" name="spinBox_11">
-    <property name="geometry">
-     <rect>
-      <x>130</x>
-      <y>310</y>
-      <width>41</width>
-      <height>22</height>
-     </rect>
-    </property>
-    <property name="maximum">
-     <number>100</number>
-    </property>
-    <property name="value">
-     <number>100</number>
     </property>
    </widget>
    <widget class="QCheckBox" name="checkBox">
@@ -451,7 +275,7 @@
    <widget class="QCheckBox" name="checkBox_2">
     <property name="geometry">
      <rect>
-      <x>100</x>
+      <x>110</x>
       <y>340</y>
       <width>71</width>
       <height>20</height>
@@ -474,12 +298,12 @@
      <string>PIC10C</string>
     </property>
    </widget>
-   <widget class="QSpinBox" name="spinBox_12">
+   <widget class="QDoubleSpinBox" name="doubleSpinBox_12">
     <property name="geometry">
      <rect>
       <x>140</x>
       <y>360</y>
-      <width>31</width>
+      <width>41</width>
       <height>21</height>
      </rect>
     </property>
@@ -493,10 +317,10 @@
      <enum>QAbstractSpinBox::NoButtons</enum>
     </property>
     <property name="maximum">
-     <number>100</number>
+     <double>100.000000000000000</double>
     </property>
     <property name="value">
-     <number>100</number>
+     <double>100.000000000000000</double>
     </property>
    </widget>
    <widget class="QLabel" name="label">
@@ -655,13 +479,227 @@
      <string>Final Score:</string>
     </property>
    </widget>
+   <widget class="QSpinBox" name="spinBox_5">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>130</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_11">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>310</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_9">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>250</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_4">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>100</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_3">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>70</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_10">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>280</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_2">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>40</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_8">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>220</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>10</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_6">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>160</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_7">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>190</y>
+      <width>43</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>100</number>
+    </property>
+    <property name="value">
+     <number>100</number>
+    </property>
+   </widget>
+   <zorder>horizontalSlider</zorder>
+   <zorder>horizontalSlider_2</zorder>
+   <zorder>horizontalSlider_3</zorder>
+   <zorder>horizontalSlider_4</zorder>
+   <zorder>horizontalSlider_5</zorder>
+   <zorder>horizontalSlider_6</zorder>
+   <zorder>horizontalSlider_7</zorder>
+   <zorder>horizontalSlider_8</zorder>
+   <zorder>horizontalSlider_9</zorder>
+   <zorder>horizontalSlider_10</zorder>
+   <zorder>horizontalSlider_11</zorder>
+   <zorder>checkBox</zorder>
+   <zorder>checkBox_2</zorder>
+   <zorder>checkBox_3</zorder>
+   <zorder>label</zorder>
+   <zorder>label_2</zorder>
+   <zorder>label_3</zorder>
+   <zorder>label_4</zorder>
+   <zorder>label_5</zorder>
+   <zorder>label_6</zorder>
+   <zorder>label_7</zorder>
+   <zorder>label_8</zorder>
+   <zorder>label_9</zorder>
+   <zorder>label_10</zorder>
+   <zorder>label_11</zorder>
+   <zorder>label_12</zorder>
+   <zorder>doubleSpinBox_12</zorder>
+   <zorder>spinBox_5</zorder>
+   <zorder>spinBox_11</zorder>
+   <zorder>spinBox_9</zorder>
+   <zorder>spinBox_4</zorder>
+   <zorder>spinBox_3</zorder>
+   <zorder>spinBox_10</zorder>
+   <zorder>spinBox_2</zorder>
+   <zorder>spinBox_8</zorder>
+   <zorder>spinBox</zorder>
+   <zorder>spinBox_6</zorder>
+   <zorder>spinBox_7</zorder>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>180</width>
+     <width>191</width>
      <height>21</height>
     </rect>
    </property>
@@ -1079,5 +1117,233 @@
     </hint>
    </hints>
   </connection>
+  <connection>
+   <sender>spinBox</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>145</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>367</x>
+     <y>239</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MainWindow</sender>
+   <signal>averageChanged(double)</signal>
+   <receiver>doubleSpinBox_12</receiver>
+   <slot>setValue(double)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>281</x>
+     <y>389</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>165</x>
+     <y>404</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_2</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>177</x>
+     <y>85</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>253</x>
+     <y>87</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_3</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>171</x>
+     <y>111</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>339</x>
+     <y>112</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_4</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>139</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>301</x>
+     <y>142</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_5</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>167</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>279</x>
+     <y>173</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_6</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>206</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>283</x>
+     <y>206</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_7</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>168</x>
+     <y>235</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>310</x>
+     <y>235</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_8</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>172</x>
+     <y>264</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>287</x>
+     <y>269</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_9</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>169</x>
+     <y>291</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>262</x>
+     <y>293</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_10</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>170</x>
+     <y>323</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>243</x>
+     <y>330</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>spinBox_11</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>170</x>
+     <y>352</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>319</x>
+     <y>350</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox</sender>
+   <signal>stateChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>57</x>
+     <y>379</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>256</x>
+     <y>375</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_2</sender>
+   <signal>stateChanged(int)</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setAverage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>132</x>
+     <y>382</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>223</x>
+     <y>380</y>
+    </hint>
+   </hints>
+  </connection>
  </connections>
+ <slots>
+  <signal>averageChanged(double)</signal>
+  <slot>setAverage()</slot>
+ </slots>
 </ui>

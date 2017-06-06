@@ -17,6 +17,10 @@ public:
 
 private:
 	Ui::MainWindow *ui;
+public slots:
+	void setAverage();
+signals:
+	void averageChanged(double);
 };
 
 #endif // MAINWINDOW_H
