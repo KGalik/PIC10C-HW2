@@ -1,3 +1,3 @@
 # PIC10C-HW2
 
-##A Grade Calculator made using Qt Creator
+## A Grade Calculator made using Qt Creator
